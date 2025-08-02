@@ -81,9 +81,7 @@ california-house-price-prediction/
 │
 ├── README.md                    # Project documentation (this file)
 ├── california_housing_analysis.ipynb   # Jupyter notebook with complete analysis
-├── code.py                      # Python script version of the analysis
-├── requirements.txt             # Required Python packages
-└── model_performance.txt        # Model evaluation results summary
+└── requirements.txt             # Required Python packages
 ```
 
 ## 🚀 How to Run
